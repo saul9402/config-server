@@ -6,8 +6,9 @@ spring:
     config:
       server:
         git:
+          uri: https://github.com/saul9402/servivio-items-config.git
         #si se va a configurar local se pone file:/// para windows y file:/ para linux
-          uri: file:///C:/Users/Cristopher Cerrillo/Desktop/config
+          #uri: file:///C:/Users/Cristopher Cerrillo/Desktop/config
           
 server:
   port: 8888
