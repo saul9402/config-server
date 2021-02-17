@@ -7,7 +7,7 @@ spring:
         git:
           uri: https://github.com/saul9402/servicio-items-config.git
           #si se va a configurar local se pone file:/// para windows y file:/ para linux
-          #uri: file:///C:/Users/Cristopher Cerrillo/Desktop/config
+          #uri: file:///C:/Users/Cristopher Cerrillo/Desktop/config 
           #las credenciales se deben poner cuando el repo es privado
           username: saul9402
           password: W8f!4%H%Y7xV5oqIW&
